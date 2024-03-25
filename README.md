@@ -1,3 +1,3 @@
-# portfolio 1
+# portfolio 
 
-## O mnie 2
+## O mnie 
