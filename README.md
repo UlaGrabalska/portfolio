@@ -5,4 +5,6 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 
 ### Narzędzia
 - [JIRA ](https://www.atlassian.com/pl/software/jira) - narzędzie do zarządzania pracą dla zespołów programistycznych, które muszą organizować i śledzić swoją pracę.
-- [Selenmium IDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?pli=1) - rozszerzenie do przeglądarek takich jak: Chrome, Firefox i Edge, które ułatwia nagrywanie i odtwarzanie testów w przeglądarce.
+- [Selenium IDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?pli=1) - rozszerzenie do przeglądarek takich jak: Chrome, Firefox i Edge, które ułatwia nagrywanie i odtwarzanie testów w przeglądarce.
+- [Postman](https://www.postman.com/) - narzędzie do testowania API REST.
+- [Snipping tool](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) - narzędzie do wykonywania zrzutów oraz nagrywania ekranu. 
