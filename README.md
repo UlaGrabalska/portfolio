@@ -24,7 +24,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - Raportowanie błędów
 - SCRUM/Agile
 - DevTools
-- SQL
+- Podstawy MySQL
 - API REST
 - Podstawy HTML, CSS, JAVA SCRIPT
 - TestRail
