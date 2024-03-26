@@ -5,9 +5,25 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 
 ### Narzędzia
 - [JIRA ](https://www.atlassian.com/pl/software/jira) - narzędzie do zarządzania pracą dla zespołów programistycznych, które muszą organizować i śledzić swoją pracę.
+- [TestRail](https://www.testrail.com/?utm_term=testrail&utm_campaign=gg_dg_eu1_search_brand&utm_source=google&utm_medium=cpc&utm_content=brand_exact&hsa_acc=9739162558&hsa_cam=13791072614&hsa_grp=157736310710&hsa_ad=674912748881&hsa_src=g&hsa_tgt=kwd-302379004298&hsa_kw=testrail&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZx0rLC47HieSoJAIyxiJ31bKAYsIIq32PNJosSpY0gqK6SPL-DRsGahoCXcAQAvD_BwE) - Narzędzie do zarządzania testamiu. Umożliwia tworzenie szczegółowych planów testów, identyfikując przypadki testowe i mapując je do odpowiednich wymagań.
 - [Selenium IDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?pli=1) - rozszerzenie do przeglądarek takich jak: Chrome, Firefox i Edge, które ułatwia nagrywanie i odtwarzanie testów w przeglądarce.
 - [Postman](https://www.postman.com/) - narzędzie do testowania API REST.
 - [Snipping tool](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) - narzędzie do wykonywania zrzutów oraz nagrywania ekranu. 
 - [ChatGPT](https://chat.openai.com/auth/login) - chatbot opracowany przez OpenAI, wykorzystujący model GPT i służący do generowania odpowiedzi na dane wprowadzane przez użytkownika.
 - [SQL](https://dev.mysql.com/downloads/mysql/) - system zarządzania bazami danych, który jest często używany do przechowywania, zarządzania i udostępniania różnego typu informacji. 
 - [W3Schools](https://www.w3schools.com/) - edukacyjna strona internetowa do nauki kodowania online, dostępna na zasadach freemium .
+
+#### Umiejętności techniczne
+- Testowanie oprogramowania
+- Tworzenie przypadków testowych
+- Raportowanie błędów
+- SCRUM/Agile
+- DevTools
+- SQL
+- API REST
+- Podstawy HTML, CSS, JAVA SCRIPT
+- TestRail
+
+##### Certyfikaty
+- [Software Development Academy](https://sdacademy.pl/?utm_source=google&utm_medium=cpc&utm_campaign=%5BPL-GADS-BR%5D_Brand&utm_content=software_development_academy_-_brand&utm_term=software%20development%20academy&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZxzBV57_PSZP1X3s2sCfPaS5YzCMxeRHZHvW2ekm3RAaRfULoDCQWQRoCPFcQAvD_BwE) - czteromiesięczny kurs na Testera Oprogramowania
+- [Udemy](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Chrome DevTools - od podstaw do eksperta
