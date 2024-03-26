@@ -36,4 +36,10 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - Adam Roman, Karolina Zmiotrowicz - *Testowanie oprogramowania w praktyce. Studium przypadków*
 - Adam Roman, Karolina Zmitrowicz - *Testowanie w praktyce. Studium przypadkow 2.0.*
 
-## Polecane blogi 
+## Polecane blogi, kanały i podcasty
+- *Po szklanie i na testowanie*
+- *Tu się testuje*
+- *Testerzy.pl*
+- *jaktestować.pl*
+- *testerka oprogramowania*
+
