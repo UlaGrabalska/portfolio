@@ -8,3 +8,6 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - [Selenium IDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?pli=1) - rozszerzenie do przeglądarek takich jak: Chrome, Firefox i Edge, które ułatwia nagrywanie i odtwarzanie testów w przeglądarce.
 - [Postman](https://www.postman.com/) - narzędzie do testowania API REST.
 - [Snipping tool](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) - narzędzie do wykonywania zrzutów oraz nagrywania ekranu. 
+- [ChatGPT](https://chat.openai.com/auth/login) - chatbot opracowany przez OpenAI, wykorzystujący model GPT i służący do generowania odpowiedzi na dane wprowadzane przez użytkownika.
+- [SQL](https://dev.mysql.com/downloads/mysql/) - system zarządzania bazami danych, który jest często używany do przechowywania, zarządzania i udostępniania różnego typu informacji. 
+- [W3Schools](https://www.w3schools.com/) - edukacyjna strona internetowa do nauki kodowania online, dostępna na zasadach freemium .
