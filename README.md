@@ -34,7 +34,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 ## Książki
 - Adam Roman, Lucjan Stapp, Michael Pilaeten - *Certyfikowany tester ISTQB. Poziom podstawowy* na podstawie sylabusa w wersji 4.0
 - Adam Roman, Karolina Zmiotrowicz - *Testowanie oprogramowania w praktyce. Studium przypadków*
-- Adam Roman, Karolina Zmitrowicz - *Testowanie w praktyce. Studium przypadkow 2.0.*
+- Adam Roman, Karolina Zmitrowicz - *Testowanie w praktyce. Studium przypadków 2.0.*
 
 ## Polecane blogi, kanały i podcasty
 - *Po szklanie i na testowanie*
