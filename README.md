@@ -32,5 +32,8 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - [Grantham College](https://www.grantham.ac.uk/) - certyfikat z języka angielskiego (ESOL z poziomu Entry 3, Level 1, Level 2)
 
 ###### Książki
-- Adam Roman, Lucjan Stapp, Michael Pilaeten - *Certfikowany tester ISTQB. Poziom podstawowy* na podstawie sylabusa w wersji 4.0
-- 
+- Adam Roman, Lucjan Stapp, Michael Pilaeten - *Certyfikowany tester ISTQB. Poziom podstawowy* na podstawie sylabusa w wersji 4.0
+- Adam Roman, Karolina Zmiotrowicz - *Testowanie oprogramowania w praktyce. Studium przypadków*
+- Adam Roman, Karolina Zmitrowicz - *Testowanie w praktyce. Studium przypadkow 2.0.*
+
+###### Polecane blogi 
