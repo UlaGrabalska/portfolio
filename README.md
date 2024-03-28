@@ -38,6 +38,11 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - [Udemy](https://www.udemy.com/course/kurs-sql-od-podstaw/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Kurs SQL od podstaw|MySQL
 - [Udemy](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Postman od podstaw - testowanie REST API 
 - [Grantham College](https://www.grantham.ac.uk/) - certyfikat z języka angielskiego (ESOL z poziomu Entry 3, Level 1, Level 2)
+[Entry 3.2.pdf](https://github.com/UlaGrabalska/portfolio/files/14796366/Entry.3.2.pdf)
+[Entry 3.1.pdf](https://github.com/UlaGrabalska/portfolio/files/14796365/Entry.3.1.pdf)
+[Entry 3.pdf](https://github.com/UlaGrabalska/portfolio/files/14796364/Entry.3.pdf)
+[Level 1.pdf](https://github.com/UlaGrabalska/portfolio/files/14796363/Level.1.pdf)
+[Level 2.pdf](https://github.com/UlaGrabalska/portfolio/files/14796362/Level.2.pdf)
 
 ## Książki
 - Adam Roman, Lucjan Stapp, Michael Pilaeten - *Certyfikowany tester ISTQB. Poziom podstawowy* na podstawie sylabusa w wersji 4.0
