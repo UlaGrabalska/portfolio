@@ -48,13 +48,4 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - *jaktestować.pl*
 - *testerka oprogramowania*
 
-##  Moje przykłady zgłoszonych błędów
-- https://ulag.atlassian.net/browse/SCRUM-6?atlOrigin=eyJpIjoiNDg1OGU2ODJlZjEzNDBiNjg2YTcxYzNkZjc0ZmM0YjkiLCJwIjoiaiJ9
-- https://ulag.atlassian.net/browse/SCRUM-1?atlOrigin=eyJpIjoiMTU2Mjc0YjVlNmViNDAyYWE1N2U1M2M4MTcwZjIwYWQiLCJwIjoiaiJ9
-- https://ulag.atlassian.net/browse/SCRUM-2?atlOrigin=eyJpIjoiZjg3YmRkZjRmNWI0NDcyZGI3MTdlN2UxOWMxMGQzYjgiLCJwIjoiaiJ9
 
-## Moje przykłady przypadków testowych
-- ![Screenshot](screenshot.png)
-
-## Przykładowa analiza ryzyka funkcjonalności w sklepie internetowym
-- 
