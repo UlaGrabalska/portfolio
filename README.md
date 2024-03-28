@@ -56,5 +56,5 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 ## Moje przykłady przypadków testowych
 -
 
-## Przykładowa analiza ryzyka funkcjonalnościw sklepie internetowym
+## Przykładowa analiza ryzyka funkcjonalności w sklepie internetowym
 - 
