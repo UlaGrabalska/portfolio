@@ -33,7 +33,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - TestRail
 
 ## Certyfikaty i kursy
-- [Software Development Academy](https://sdacademy.pl/?utm_source=google&utm_medium=cpc&utm_campaign=%5BPL-GADS-BR%5D_Brand&utm_content=software_development_academy_-_brand&utm_term=software%20development%20academy&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZxzBV57_PSZP1X3s2sCfPaS5YzCMxeRHZH)[Certyfikat SDA.pdf]
+- [Software Development Academy](https://sdacademy.pl/?utm_source=google&utm_medium=cpc&utm_campaign=%5BPL-GADS-BR%5D_Brand&utm_content=software_development_academy_-_brand&utm_term=software%20development%20academy&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZxzBV57_PSZP1X3s2sCfPaS5YzCMxeRHZH)- [Certyfikat SDA.pdf]
 vW2ekm3RAaRfULoDCQWQRoCPFcQAvD_BwE) - czteromiesięczny kurs na Testera Oprogramowania (https://github.com/UlaGrabalska/portfolio/files/14796308/Certyfikat.SDA.pdf)
 - [Udemy](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Chrome DevTools - od podstaw do eksperta
 - [Udemy](https://www.udemy.com/course/kurs-sql-od-podstaw/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Kurs SQL od podstaw|MySQL
