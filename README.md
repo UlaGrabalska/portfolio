@@ -54,7 +54,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - https://ulag.atlassian.net/browse/SCRUM-2?atlOrigin=eyJpIjoiZjg3YmRkZjRmNWI0NDcyZGI3MTdlN2UxOWMxMGQzYjgiLCJwIjoiaiJ9
 
 ## Moje przykłady przypadków testowych
--
+- "C:\Users\ulagr\OneDrive\Pulpit\Szkolenie SDA\Przykładowy przypadek testowy.png"
 
 ## Przykładowa analiza ryzyka funkcjonalności w sklepie internetowym
 - 
