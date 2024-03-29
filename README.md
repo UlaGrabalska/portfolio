@@ -29,7 +29,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - DevTools
 - Podstawy MySQL
 - API REST
-- Podstawy HTML, CSS, JAVA SCRIPT
+- Podstawy HTML, CSS, JavaScript
 - TestRail
 
 ## Certyfikaty i kursy
