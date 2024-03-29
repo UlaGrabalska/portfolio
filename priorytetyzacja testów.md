@@ -4,11 +4,11 @@
   
 *Testy integracyjne*: Ryzyko związane z błędami w procesie składania zmówień online ma największy priorytet. Należy przetestować różne scenariusze zamówień, weryfikację poprawności koszyka, proces płatności oraz powiadomienia o zamówieniu.
 
-*Testy integracyjne z systemami płatności*: Należy upewnić się, że płatności online działają poprawnie i bez probnlemów można dokonać transakcji. 
+*Testy integracyjne z systemami płatności*: Należy upewnić się, że płatności online działają poprawnie i bez problemów można dokonać transakcji. 
 
 - **Testy Zarządzania Zapasami**:
   
-*Testy integracyjne systemu zarządzania zapasami*: Testy dotyczące zarządzania zapasami są ważne poniważ, bez produktów nie można wykonać zamówienia. Testy powinny skupić się na systemie aktualizacji stanów magazynowych, dostępności produktów w sklepie oraz przyjmowaniu dostaw.  
+*Testy integracyjne systemu zarządzania zapasami*: Testy dotyczące zarządzania zapasami są ważne ponieważ, bez produktów nie można wykonać zamówienia. Testy powinny skupić się na systemie aktualizacji stanów magazynowych, dostępności produktów w sklepie oraz przyjmowaniu dostaw.  
 
 - **Testy Jakości Produktów**:
   
