@@ -22,7 +22,7 @@ Prawdopodobieństwo: Średnie
 Wpływ: Wysoki
 Źródło: Błędy w systemie odpowiedzialnym za zapasy. System nie jest w stanie przewidzieć zwrostu popytu.
 
-##2. Ocena Ryzyka
+## 2. Ocena Ryzyka
 
 2.1. Błędy w zamówieniach online
 Działania Zaradcze: Regularne testy integracyjne procesu zamówień, monitorowanie płatności online, szybkie reagowanie na zgłaszane problemy.
