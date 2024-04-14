@@ -35,7 +35,8 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 ## Certyfikaty i kursy
 - [Software Development Academy](https://sdacademy.pl/?utm_source=google&utm_medium=cpc&utm_campaign=%5BPL-GADS-BR%5D_Brand&utm_content=software_development_academy_-_brand&utm_term=software%20development%20academy&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZxzBV57_PSZP1X3s2sCfPaS5YzCMxeRHZH) - czteromiesięczny kurs na Testera Oprogramowania (https://github.com/UlaGrabalska/portfolio/files/14796308/Certyfikat.SDA.pdf)
 - [Udemy](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Chrome DevTools - od podstaw do eksperta [Certyfikat DevTools.pdf](https://github.com/UlaGrabalska/portfolio/files/14969941/Certyfikat.DevTools.pdf)
-- [Udemy](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Postman od podstaw - testowanie REST API 
+- [Udemy](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/?couponCode=GENAISALE24) - kurs od Rafała Podrazy: Postman od podstaw - testowanie REST API [Certyfikat Postman.pdf](https://github.com/UlaGrabalska/portfolio/files/14969956/Certyfikat.Postman.pdf)
+
 - [Grantham College](https://www.grantham.ac.uk/) - certyfikat z języka angielskiego (ESOL z poziomu Entry 3, Level 1, Level 2)
 [Entry 3.2.pdf](https://github.com/UlaGrabalska/portfolio/files/14796366/Entry.3.2.pdf)
 [Entry 3.1.pdf](https://github.com/UlaGrabalska/portfolio/files/14796365/Entry.3.1.pdf)
