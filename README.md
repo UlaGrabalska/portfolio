@@ -10,6 +10,7 @@ Nazywam się Urszula Grabalska. Ukończyłam Wyższą Szkołę Finansów i Zarz�
 - **Konferencja TestFest** - Konferencja, która odbyła się we Wrocławiu w marcu 2024r. Byłam tam wolontariuszką.
 - **Playwright** webinar od jaktestować.pl
 - **Testowanie oprogramowania** webinar od Future Collars.
+- **ŁódQA** - meetup który odbył się w Łodzi w siedzibie firmy MakoLab w kwietniu 2024r. 
 
 ## Narzędzia
 - [JIRA ](https://www.atlassian.com/pl/software/jira) - narzędzie do zarządzania pracą dla zespołów programistycznych, które muszą organizować i śledzić swoją pracę.
